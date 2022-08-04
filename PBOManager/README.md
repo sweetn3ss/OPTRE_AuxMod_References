@@ -5,7 +5,7 @@ PBO Manager is integral to the workflow of any Arma 3 modder, and as such should
 
 Only one of the files contained within this folder should be downloaded and installed, as they are for different architectures.
 
-x64 is for 64-bit operating systems, while 6x86 is for 32-bit operating systems. If you are not sure what architecture of operating system you are running, do the following:
+x64 is for 64-bit operating systems, while x86 is for 32-bit operating systems. If you are not sure what architecture of operating system you are running, do the following:
 
 In your computer, open `Settings > System > About` and look for a field labelled as "Sytem Type". This field will say whether you are running an x64 or x86 system.
 
